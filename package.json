@@ -48,7 +48,7 @@
     "typescript": "^5.7.2",
     "@algolia/client-search": "^5.15.0",
     "@eslint/js": "^9.16.0",
-    "@shikijs/vitepress-twoslash": "^2.0.0",
+    "@shikijs/vitepress-twoslash": "^3.0.0",
     "@types/express": "^5.0.0",
     "@types/node": "22.13.10",
     "@types/react": "^18.3.12",
